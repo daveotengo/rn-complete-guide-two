@@ -6,4 +6,4 @@ npm intall
 
 npm start
 
-use mobile device android or ios to scan qrcode in console to view application
+use mobile device android or ios with expo client downloaded to scan qrcode in console to view application
